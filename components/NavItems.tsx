@@ -5,7 +5,7 @@ import { Link } from "lucide-react"
 import { usePathname } from "next/navigation";
 
 const navItems = [
-    { label:'Home', href: '/' },
+    {label:'Home', href: '/' },
     {label: 'companions', href: '/companions' },
     {label: 'My Journey', href: 'my-journey'},
 ]
